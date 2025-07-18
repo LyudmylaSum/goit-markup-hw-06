@@ -868,9 +868,12 @@ background-color: #4d5ae5;
 .page-footer {
     padding-top: 96px;
   }
-  .page-footer-container {
+  .page-footer .container {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     gap: 72px 24px;
+    max-width: 584px;
   }
 
   .footer-logo-container {
