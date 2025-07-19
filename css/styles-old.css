@@ -17,62 +17,7 @@
 
 /* Footer */
 
-.page-footer {
-  background-color: #2e2f42;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-.footer-logo {
-  display: inline-block;
- 
-}
 
-  
-
-
-
-.page-footer-container {
-  display: flex;
-  align-items: baseline;
-}
-
-.footer-logo-container {
-  margin-right: 120px;
-}
-
-
-
-.footer-input {
-  
-  
- 
-  width: 264px;
-  
-
-  
-}
-
-
-
-.container-footer-subscribe {
-  
-  width: 453px;
-height: 80px;
-}
-
-
-.footer-button-send{
-    min-width: 165px;
-
-  
-  
-  align-items: center;
-  justify-content: center;
-flex-direction: row;
-gap: 16px;
-
-display: flex;
-}
 
 
 /* backdrop */
